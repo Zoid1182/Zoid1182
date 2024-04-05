@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Damo.
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning learning algorithms and other interests.
+- 👀 I’m interested in robotics.
+- 🌱 I’m currently working as a auto-driving engineer. This page is to show my fool ideas.
 
 
 <!---
